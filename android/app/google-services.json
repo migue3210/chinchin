@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150586357762",
+    "project_id": "chinchin-c1cf4",
+    "storage_bucket": "chinchin-c1cf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150586357762:android:c639e94777d2dfe8984f1b",
+        "android_client_info": {
+          "package_name": "com.example.chinchin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150586357762-1ja7pcuil3krtn6cia72gf04lfrcsvg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chinchin",
+            "certificate_hash": "2084173b7362e69111955fe3e62b5446957d6c6c"
+          }
+        },
+        {
+          "client_id": "150586357762-afitbu2alv97hebp49b9112gjb4uq7hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEez1Mqo6okkb1vADV3-AEEJROLthokc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150586357762-afitbu2alv97hebp49b9112gjb4uq7hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
